@@ -1,0 +1,7 @@
+name: ezQueueHub
+main: com.yeetdev.ezQueueHub.Main
+depend: [PermissionsEx, EzQueueSpigot]
+authors: [YeetDev (yeetdev.com)]
+version: 1.0.0 (Final)
+
+
